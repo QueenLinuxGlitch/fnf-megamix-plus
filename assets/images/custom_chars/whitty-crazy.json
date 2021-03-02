@@ -1,0 +1,35 @@
+{
+  "animation": {
+    "idle": {
+      "name": "Whitty idle dance",
+      "loop": true
+    },
+    "singUP": {
+      "name": "Whitty Sing Note UP",
+      "loop": true
+    },
+    "singDOWN": {
+      "name": "Whitty Sing Note DOWN",
+      "loop": true
+    },
+    "singLEFT": {
+      "name": "Whitty Sing Note LEFT",
+      "loop": true
+    },
+    "singRIGHT": {
+      "name": "whitty sing note right",
+      "loop": true
+    }
+  },
+  "offset": {
+    "idle": [0,0],
+    "singUP": [-6,50],
+    "singRIGHT": [206,-120],
+    "singLEFT": [50, 10],
+    "singDOWN": [130, -120]
+  },
+  "flipx": false,
+  "camOffset": [400,0],
+  "like": "dad",
+  "playAnim": "idle"
+}

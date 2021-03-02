@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Vanilla",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      "Tutorial",
+      "Bopeebo",
+      "Fresh",
+      "Dadbattle",
+      "Spookeez",
+      "South",
+      "Monster",
+      "Pico",
+      "Philly",
+      "Blammed",
+      "Satin-Panties",
+      "High",
+      "Milf",
+      "Cocoa",
+      "Eggnog",
+      "Winter-Horrorland",
+      "Senpai",
+      "Roses",
+      "Thorns"
+    ]
+  },
+  {
+    "name": "Mega-Mix-Singles",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      "Among-Us-Trap-Remix",
+      "Anime-Thighs",
+      "Busted",
+      "Crystal-Grove",
+      "Fresh-Prince-Of-Bel-Air",
+      "Kitchen-Gun",
+      "Road-Rage",
+      "Thanos-Beatbox",
+      "The-Ultimate-Showdown",
+      "Thornfire",
+      "Lovin-My-Dad",
+	  "Stupid-Horse",
+    ]
+  },
+  {
+    "name": "B-Sides",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      "Tutorial-B-Side",
+      "Bopeebo-B-Side",
+      "Fresh-B-Side",
+      "Dadbattle-B-Side",
+      "Spookeez-B-Side",
+      "South-B-Side",
+      "Pico-B-Side",
+      "Philly-B-Side",
+      "Blammed-B-Side",
+      "Satin-Panties-B-Side",
+      "High-B-Side",
+      "Milf-B-Side",
+    ]
+  },
+  {
+    "name": "B3-Remixes",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      "Tutorial-B3-Remix",
+      "Bopeebo-B3-Remix",
+      "Fresh-B3-Remix",
+      "Dadbattle-B3-Remix",
+      "Spookeez-B3-Remix",
+      "South-B3-Remix",
+      "Pico-B3-Remix",
+      "Philly-B3-Remix",
+      "Blammed-B3-Remix",
+      "Satin-Panties-B3-Remix",
+      "High-B3-Remix",
+      "Milf-B3-Remix",
+      "Cocoa-B3-Remix",
+      "Eggnog-B3-Remix",
+      "Winter-Horrorland-B3-Remix",
+      "Senpai-B3-Remix",
+      "Roses-B3-Remix",
+      "Thorns-B3-Remix"
+    ]
+  },
+  {
+    "name": "Duos",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      "Tutorial-Duet-Mode",
+      "Bopeebo-Duet-Mode",
+      "Fresh-Duet-Mode",
+      "Dadbattle-Duet-Mode",
+      "Spookeez-Duet-Mode",
+      "South-Duet-Mode",
+      "Monster-Duet-Mode",
+      "Pico-Duet-Mode",
+      "Philly-Duet-Mode",
+      "Blammed-Duet-Mode",
+      "Satin-Panties-Duet-Mode",
+      "High-Duet-Mode",
+      "Milf-Duet-Mode",
+      "Cocoa-Duet-Mode",
+      "Eggnog-Duet-Mode",
+      "Winter-Horrorland-Duet-Mode",
+      "Senpai-Duet-Mode",
+      "Roses-Duet-Mode",
+      "Thorns-Duet-Mode"
+    ]
+  },
+  {
+    "name": "Touhou",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      "The-Pocket-Watch-of-Blood",
+      "Lunar-Dial",
+      "Night-of-Nights",
+    ]
+  },
+  {
+    "name": "VS-Whitty",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      "Lo-Fight",
+      "Overhead",
+      "Ballistic",
+      "Ballistic-Blitz",
+    ]
+  },
+  {
+    "name": "Plants-VS-Zombies",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      "Crazy",
+      "Lawn",
+      "Brains",
+    ]
+  },
+  // trailing commas don't matter with tjson
+  // visual studio code is just pissy
+  /*
+  uncomment this for an example
+   {
+    "name": "Custom 1",
+    "songs": [
+    "Bopeebo",
+    "Fresh",
+   ]
+   },
+  */
+]

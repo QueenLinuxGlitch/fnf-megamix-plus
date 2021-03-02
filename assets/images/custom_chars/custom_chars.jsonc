@@ -1,0 +1,306 @@
+{
+     "whitty" : {
+         "icons" : [
+             26
+            ,27
+            ,24
+        ]
+        ,"like" : "dad"
+    }
+    ,"bf-pixel-b3" : {
+         "icons" : [
+             21
+            ,21
+            ,24
+        ]
+        ,"like" : "bf-pixel"
+    }
+    ,"senpai-b3" : {
+         "icons" : [
+             22
+            ,22
+            ,24
+        ]
+        ,"like" : "senpai"
+    }
+    ,"monster-b3" : {
+         "icons" : [
+             19
+            ,20
+            ,24
+        ]
+        ,"like" : "monster"
+    }
+    ,"whitty-crazy" : {
+         "icons" : [
+             28
+            ,29
+            ,24
+        ]
+        ,"like" : "whitty-crazy"
+    }
+    ,"bf-christmas-b3" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf-christmas"
+    }
+    ,"monster-bside" : {
+         "icons" : [
+             18
+            ,20
+            ,24
+        ]
+        ,"like" : "monster"
+    }
+    ,"zombie" : {
+         "icons" : [
+             32
+            ,33
+            ,24
+        ]
+        ,"like" : "zombie"
+    }
+    ,"gf-pixel-b3" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf-pixel"
+    }
+    ,"sunflower" : {
+         "icons" : [
+             30
+            ,31
+            ,24
+        ]
+        ,"like" : "spooky"
+    }
+    ,"gf-christmas-b3" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf-christmas"
+    }
+    ,"gf-bside" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf"
+    }
+    ,"mom-car-b3" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
+    ,"spirit-b3" : {
+         "icons" : [
+             23
+            ,23
+            ,24
+        ]
+        ,"like" : "spirit"
+    }
+    ,"senpai-angrier" : {
+         "icons" : [
+             22
+            ,22
+            ,24
+        ]
+        ,"like" : "senpai-angry"
+    }
+    ,"senpai-angry-b3" : {
+         "icons" : [
+             22
+            ,22
+            ,24
+        ]
+        ,"like" : "senpai-angry"
+    }
+    ,"monster-christmas-b3" : {
+         "icons" : [
+             19
+            ,20
+            ,24
+        ]
+        ,"like" : "monster"
+    }
+    ,"bf-bside" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf"
+    }
+    ,"pico-bside" : {
+         "icons" : [
+             4
+            ,5
+            ,24
+        ]
+        ,"like" : "pico"
+    }
+    ,"gf-boombox" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf"
+    }
+    ,"gf-car-bside" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf-car"
+    }
+    ,"spooky-b3" : {
+         "icons" : [
+             2
+            ,3
+            ,24
+        ]
+        ,"like" : "spooky"
+    }
+    ,"mom-b3" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
+    ,"dad-bside" : {
+         "icons" : [
+             12
+            ,13
+            ,24
+        ]
+        ,"like" : "dad"
+    }
+    ,"bf-car-b3" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf-car"
+    }
+    ,"touhou" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
+    ,"parents-b3" : {
+         "icons" : [
+             17
+            ,18
+            ,24
+        ]
+        ,"like" : "parents"
+    }
+    ,"mom-bside" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
+    ,"bf-car-bside" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf-car"
+    }
+    ,"spooky-bside" : {
+         "icons" : [
+             2
+            ,3
+            ,24
+        ]
+        ,"like" : "spooky"
+    }
+    ,"dad-b3" : {
+         "icons" : [
+             12
+            ,13
+            ,24
+        ]
+        ,"like" : "dad"
+    }
+    ,"gf-car-b3" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf-car"
+    }
+    ,"pico-b3" : {
+         "icons" : [
+             4
+            ,5
+            ,24
+        ]
+        ,"like" : "pico"
+    }
+    ,"too-de" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf"
+    }
+    ,"bf-b3" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf"
+    }
+    ,"mom-car-bside" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
+    ,"templatePico" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "pico"
+    }
+    ,"gf-b3" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf"
+    }
+	,
+}

@@ -1,0 +1,1251 @@
+{
+     "notes" : [
+         {
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     8000
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     9000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     10000
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     11000
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     12000
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     13000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     14000
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     15000
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     16000
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     17000
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     18000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     19000
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     20000
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     21000
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     22000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     23000
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     24000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     24500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     25000
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     26000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     26500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     27000
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     28000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     28500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     29000
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     30000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     30500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     31000
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     32000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     32250
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     32500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     32750
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     33125
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     33500
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     34000
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     34250
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     34500
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     34750
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     35250
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     35500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     36000
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     36250
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     36500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     36750
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     37125
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     37500
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     38000
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     38250
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     38500
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     38750
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     39250
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     39500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     40000
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     40250
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     40500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     40750
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     41250
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     41500
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : false
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     42000
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     42250
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     42500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     42750
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     43250
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     43500
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     44000
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     44500
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     44750
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     45000
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     45250
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     45500
+                    ,0
+                    ,500
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     46250
+                    ,1
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     46500
+                    ,0
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     46750
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     47250
+                    ,3
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     47500
+                    ,2
+                    ,0
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "sectionNotes" : [
+                 [
+                     47750
+                    ,0
+                    ,250
+                ]
+            ]
+            ,"lengthInSteps" : 16
+            ,"typeOfSection" : 0
+            ,"mustHitSection" : true
+        }
+        ,{
+             "lengthInSteps" : 16
+            ,"altAnim" : false
+            ,"typeOfSection" : 0
+            ,"sectionNotes" : [
+
+            ]
+            ,"bpm" : 120
+            ,"changeBPM" : false
+            ,"mustHitSection" : true
+        }
+    ]
+    ,"sections" : 102
+    ,"bpm" : 120
+    ,"song" : {
+         "isMoody" : false
+        ,"sectionLengths" : [
+
+        ]
+        ,"player1" : "bf-bside"
+        ,"player2" : "gf-bside"
+        ,"notes" : [
+             "@~obRef#1"
+            ,"@~obRef#2"
+            ,"@~obRef#3"
+            ,"@~obRef#4"
+            ,"@~obRef#5"
+            ,"@~obRef#6"
+            ,"@~obRef#7"
+            ,"@~obRef#8"
+            ,"@~obRef#9"
+            ,"@~obRef#10"
+            ,"@~obRef#11"
+            ,"@~obRef#12"
+            ,"@~obRef#13"
+            ,"@~obRef#14"
+            ,"@~obRef#15"
+            ,"@~obRef#16"
+            ,"@~obRef#17"
+            ,"@~obRef#18"
+            ,"@~obRef#19"
+            ,"@~obRef#20"
+            ,"@~obRef#21"
+            ,"@~obRef#22"
+            ,"@~obRef#23"
+            ,"@~obRef#24"
+            ,"@~obRef#25"
+            ,"@~obRef#26"
+            ,"@~obRef#27"
+            ,"@~obRef#28"
+            ,"@~obRef#29"
+            ,"@~obRef#30"
+            ,"@~obRef#31"
+            ,"@~obRef#32"
+            ,"@~obRef#33"
+            ,"@~obRef#34"
+            ,"@~obRef#35"
+            ,"@~obRef#36"
+            ,"@~obRef#37"
+            ,"@~obRef#38"
+            ,"@~obRef#39"
+            ,"@~obRef#40"
+            ,"@~obRef#41"
+            ,"@~obRef#42"
+            ,"@~obRef#43"
+            ,"@~obRef#44"
+            ,"@~obRef#45"
+            ,"@~obRef#46"
+            ,"@~obRef#47"
+            ,"@~obRef#48"
+            ,"@~obRef#49"
+            ,"@~obRef#50"
+            ,"@~obRef#51"
+            ,"@~obRef#52"
+            ,"@~obRef#53"
+            ,"@~obRef#54"
+            ,"@~obRef#55"
+            ,"@~obRef#56"
+            ,"@~obRef#57"
+            ,"@~obRef#58"
+            ,"@~obRef#59"
+            ,"@~obRef#60"
+            ,"@~obRef#61"
+            ,"@~obRef#62"
+            ,"@~obRef#63"
+            ,"@~obRef#64"
+            ,"@~obRef#65"
+            ,"@~obRef#66"
+            ,"@~obRef#67"
+            ,"@~obRef#68"
+            ,"@~obRef#69"
+            ,"@~obRef#70"
+            ,"@~obRef#71"
+            ,"@~obRef#72"
+            ,"@~obRef#73"
+            ,"@~obRef#74"
+            ,"@~obRef#75"
+            ,"@~obRef#76"
+            ,"@~obRef#77"
+            ,"@~obRef#78"
+            ,"@~obRef#79"
+            ,"@~obRef#80"
+            ,"@~obRef#81"
+            ,"@~obRef#82"
+            ,"@~obRef#83"
+            ,"@~obRef#84"
+            ,"@~obRef#85"
+            ,"@~obRef#86"
+            ,"@~obRef#87"
+            ,"@~obRef#88"
+            ,"@~obRef#89"
+            ,"@~obRef#90"
+            ,"@~obRef#91"
+            ,"@~obRef#92"
+            ,"@~obRef#93"
+            ,"@~obRef#94"
+            ,"@~obRef#95"
+            ,"@~obRef#96"
+            ,"@~obRef#97"
+            ,"@~obRef#98"
+            ,"@~obRef#99"
+            ,"@~obRef#100"
+            ,"@~obRef#101"
+            ,"@~obRef#102"
+        ]
+        ,"cutsceneType" : "none"
+        ,"isSpooky" : false
+        ,"song" : "Tutorial-B-Side"
+        ,"uiType" : "normal"
+        ,"stage" : "stage"
+        ,"sections" : 0
+        ,"needsVoices" : true
+        ,"gf" : "gf"
+        ,"speed" : 1.2
+        ,"bpm" : 120
+    }
+}
