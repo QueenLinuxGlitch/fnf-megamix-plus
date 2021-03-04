@@ -374,5 +374,60 @@
         ]
         ,"like" : "mom"
     }
-	
+	,"pico-cside" : {
+         "icons" : [
+             4
+            ,5
+            ,24
+        ]
+        ,"like" : "pico"
+    }
+	,"bf-car-cside" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf-car"
+    }
+	,"gf-car-cside" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf-car"
+    }
+	,"mom-car-cside" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
+	,"bf-cside" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf"
+    }
+	,"gf-cside" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf"
+    }
+	,"mom-cside" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
 }

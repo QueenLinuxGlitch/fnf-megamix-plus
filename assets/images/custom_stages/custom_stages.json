@@ -10,4 +10,6 @@
   "lawn": "stage",
   "limo-neo": "limo",
   "philly-neo": "philly",
+  "philly-cside": "philly",
+  "limo-cside": "limo",
 }
