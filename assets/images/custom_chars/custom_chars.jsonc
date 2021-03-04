@@ -302,5 +302,77 @@
         ]
         ,"like" : "gf"
     }
-	,
+    ,"bf-neo" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf"
+    }
+	,"gf-neo" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf"
+    }
+	,"dad-neo" : {
+         "icons" : [
+             12
+            ,13
+            ,24
+        ]
+        ,"like" : "dad"
+    }
+	,"mom-neo" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
+	,"spooky-neo" : {
+         "icons" : [
+             2
+            ,3
+            ,24
+        ]
+        ,"like" : "spooky"
+    }
+	,"pico-neo" : {
+         "icons" : [
+             4
+            ,5
+            ,24
+        ]
+        ,"like" : "pico"
+    }
+	,"bf-car-neo" : {
+         "icons" : [
+             0
+            ,1
+            ,24
+        ]
+        ,"like" : "bf-car"
+    }
+	,"gf-car-neo" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf-car"
+    }
+	,"mom-car-neo" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
+	
 }
