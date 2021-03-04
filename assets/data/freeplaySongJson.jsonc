@@ -153,6 +153,25 @@
       "Brains",
     ]
   },
+  {
+    "name": "Neo-Remix",
+    "songs": [
+      // we use tjson so we can do comments and do some incorrect things
+      // the reason we use tjson is because json is hard
+      // The category screen won't show up unless there are more than 1 categories
+      "Bopeebo-Neo",
+      "Fresh-Neo",
+      "Dadbattle-Neo",
+	  "Spookeez-Neo",
+      "South-Neo",
+      "Pico-Neo",
+	  "Philly-Neo",
+      "Blammed-Neo",
+      "Satin-Panties-Neo",
+	  "High-Neo",
+      "Milf-Neo",
+    ]
+  },
   // trailing commas don't matter with tjson
   // visual studio code is just pissy
   /*
