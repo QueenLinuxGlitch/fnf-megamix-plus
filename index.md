@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+## Friday Night Funkin' MegaMix Plus
+### Edited 3/4/21
 
-You can use the [editor on GitHub](https://github.com/QueenLinuxGlitch/fnf-megamix-plus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+FNFMM+ is a modpack for [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin). Currently, the pack is only built for Windows, but you can use the assets here onm any build of the game. This may be posted on the [GameBanana](https://gamebanana.com/games/8694) page for FNF, but currently remains unposted, due to my concerns with the approval process for mods.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Changelog
 
-### Markdown
+## [0.2.7-plus-0.0.51] - 2021-03-04
+### Added
+- intro text
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [0.2.7-plus-0.0.5] - 2021-03-04
+### Added
+- Extras folder with AutoHotkey + Keysticks setup w/ Arcade Stick config premade
 
-```markdown
-Syntax highlighted code block
+## [0.2.7-plus-0.0.45] - 2021-03-04
+### Changes
+- Title screen altered
 
-# Header 1
-## Header 2
-### Header 3
+## [0.2.7-plus-0.0.4] - 2021-03-04
+### Added
+- C-Side Remixes and Assets added
 
-- Bulleted
-- List
+## [0.2.7-plus-0.0.3] - 2021-03-04
+### Added
+- Neo Assets added (replaced some base assets)
 
-1. Numbered
-2. List
+## [0.2.7-plus-0.0.25] - 2021-03-03
+### Changes
+- Retro Specter Thorns&Roses Remixes assets fixed
 
-**Bold** and _Italic_ and `Code` text
+## [0.2.7-plus-0.0.2] - 2021-03-03
+### Added
+- Retro Specter Thorns&Roses Remixes added
 
-[Link](url) and ![Image](src)
-```
+### Changes planned
+- Retrospecter T&R Assets
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## [0.2.7-plus-0.0.1] - 2021-03-03
+### Added
+- Neo Songs added in their own menu minus art assets (planned for later)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QueenLinuxGlitch/fnf-megamix-plus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Changes planned
+- Neo Assets
