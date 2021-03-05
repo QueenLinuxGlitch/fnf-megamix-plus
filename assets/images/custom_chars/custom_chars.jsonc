@@ -430,4 +430,20 @@
         ]
         ,"like" : "mom"
     }
+	,"hd-gf" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf-car"
+    }
+	,"ayana" : {
+         "icons" : [
+             6
+            ,7
+            ,24
+        ]
+        ,"like" : "mom"
+    }
 }
