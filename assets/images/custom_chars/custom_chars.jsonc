@@ -446,4 +446,20 @@
         ]
         ,"like" : "mom"
     }
+	,"dalia-car" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf-car"
+    }
+	,"dalia" : {
+         "icons" : [
+             16
+            ,16
+            ,24
+        ]
+        ,"like" : "gf"
+    }
 }
